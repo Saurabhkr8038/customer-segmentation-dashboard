@@ -11,7 +11,8 @@ This project applies RFM analysis and clustering techniques to segment customers
 
 ## 📊 Dataset
 
-- Retail customer dataset (Kaggle)
+- Retail customer dataset from Kaggle:
+  [Retail Customer Segmentation Analysis Dataset](https://www.kaggle.com/datasets/kaushiksuresh147/customer-segmentation)
 - Cleaned and prepared for RFM and ML analysis
 
 ## 🧰 Technologies Used
